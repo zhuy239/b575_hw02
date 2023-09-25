@@ -1,1 +1,1 @@
-grep -o TAG test_seq.txt | wc -l
+grep -o TAA test_seq.txt | wc -l
