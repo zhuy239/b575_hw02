@@ -1,0 +1,5 @@
+1.  What was the most challenging part of this assignment?
+I think the most challenging part is obeying the syntax of psudocode, especially when you've already had some experience of writing "real" code by python and so on.
+
+2.What is one element earn about git and GitHub through this experience?
+I've learned how and why to fork a repository to my own GitHub account. By doing so, individuals can make changes and test them independently without affecting the original project. Once they are done, they can create a pull request to suggest these changes to it.
